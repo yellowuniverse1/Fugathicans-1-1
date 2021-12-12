@@ -105,7 +105,7 @@ begin
 	# what are the amounts that we need to supply to chip in feed stream 1 (units: mmol/hr)?
 	mol_flow_values_feed_1 = [
 		3.58	; # oxygen mmol/hr
-		5.3 ; # sucrose mmol/hr (or maybe 6.1?)
+		15.5 ; # sucrose mmol/hr (or maybe 6.1?)
 	]
 
 	# what is coming into feed stream 2?
@@ -115,7 +115,7 @@ begin
 
 	# let's always add Vₘ into feed stream 2
 	mol_flow_values_feed_2 = [
-		Vₘ 		; # glycerol mmol/hr
+		0.0;#Vₘ 		; # glycerol mmol/hr
 	]
 	
 	
