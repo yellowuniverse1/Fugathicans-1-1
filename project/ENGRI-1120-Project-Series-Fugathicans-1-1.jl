@@ -45,7 +45,7 @@ Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithac
 # ╔═╡ 46c352c3-60f1-4718-8878-d0031d5bd0ca
 md"""
 ### Introduction
-Gylcerol and Sucrose....YUH GET INTO IT
+Since winter is approaching, many families will need antifreeze to safely drive in the snow. We, the Fugathicans, were set on a mission to create 1,3-propanediol (3G), which makes antifreeze and polymers used in different industrial materials. We will create 3G from only two simple components: sucrose and oxygen. On Sigma Aldrich, sucrose used to make the compound costs $11.71 per mole, and the oxygen is 99.6% pure and costs $145.71 per mole. By using relatively cheap sucrose compared to other resources like glucose, we will make more profit while still creating the extremely useful product.
 """
 
 # ╔═╡ 4bcb9ef8-ea0a-480f-82f0-d15f5a7a7e43
@@ -469,7 +469,7 @@ end
 # ╔═╡ fe7af914-b934-480d-af63-01265ddb19d8
 md"""
 ### Conclusions
-YUH GET INTO IT PART 2!!!
+In conclusion, the Fugathicans have saved the day once again by providing our clients with a mass flow rate of approximately 1.004 g/hr at a purity of approximately 95.01%. Our process features the wonderful removal of glycerol as a suppliant and uses just enough sucrose that creates byproducts to carry out the reaction to completion. Not only is our process efficient, it ends up being as profitable as solely buying 1,3-propanediol itself. While 1,3-propanediol can be bought by itself, sucrose is easier to purchase and store, allowing for easy access to create 1,3-propanediol when needed. Furthermore, our project allows our client to produce the desired product at any time rather than wait for the product to ship in a large quantity. When supplies are bought in bulk, the project builds on its profit over time, breaking even in less than a year. The Fugathicans are the superheroes you never knew you needed.
 """
 
 # ╔═╡ 1fad21b1-365b-4cbb-9a38-c42bf5f46951
