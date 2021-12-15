@@ -475,6 +475,13 @@ In conclusion, the Fugathicans have saved the day once again by providing our cl
 # ╔═╡ 1fad21b1-365b-4cbb-9a38-c42bf5f46951
 md"""
 ### References
+1,3-Propanediol | C3H8O2—PubChem. (n.d.). Retrieved December 15, 2021, from https://pubchem.ncbi.nlm.nih.gov/compound/1_3-Propanediol
+
+1,3-Propanediol 98 504-63-2. (n.d.). Retrieved December 15, 2021, from https://www.sigmaaldrich.com/US/en/product/aldrich/p50404
+
+Oxygen (99.6%) 99.6%, cylinder of 14 L, analytical standard | Sigma-Aldrich. (n.d.). Retrieved December 15, 2021, from https://www.sigmaaldrich.com/US/en/product/supelco/300500u
+
+Sucrose = 99.5 GC 57-50-1. (n.d.). Retrieved December 15, 2021, from https://www.sigmaaldrich.com/US/en/product/sigma/s9378
 """
 
 # ╔═╡ 8262c84a-1f81-469b-8e7e-b86266c578cd
