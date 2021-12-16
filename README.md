@@ -4,13 +4,3 @@ This is the Intro to Chemical Engineering Project for Team Fugathicans. Bianca D
 ## To learn more: 
 Go to the Fugathican's website:
 https://sites.google.com/cornell.edu/fugathicans/cost-analysis?authuser=0 
-
-# Videos
-
-## Cellulose foam 
-
-### With non-hydrolyzed fibers (Micro-CT)
-
-```@raw html
-<center>
-<iframe width="560" height="315px" src="https://www.youtube.com/embed/xZg-A2NX7hU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
