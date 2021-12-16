@@ -51,6 +51,11 @@ Since winter is approaching, many families will need antifreeze to safely drive 
 # ╔═╡ 4bcb9ef8-ea0a-480f-82f0-d15f5a7a7e43
 md"""
 ### Materials and Methods
+For the technical design, we used a series method. In this method, the reactors are connected in a sequence. This allows unreacted sucrose and oxygen from the first reactor to be consumed in the following reactors. The reactors are assumed to be isothermal, which means that the optimum temperature remains constant at 25oC. The reactors are also well-mixed, have a volume of 100𝞵L, and E. coli cell-free with the cell-free components stuck to the system. The reactors were fed by an infinite volume syringe that required negligible power. After the reactors, the output stream was fed into a “Magical Separator Unit” to separate 3G from the stream. Four stages of separation were conducted, each stage being isothermal, 75% efficient by mass, and requiring no power. All streams are ideal, isothermal, and at atmospheric pressure.
+
+##### Financial Methods:
+*To calculate the financial solvency of this project, compared to a risk free investment in bonds returning 10% and 1%, we performed net present value calculations. 
+*We determined the setup costs necessary and determined
 """
 
 # ╔═╡ 47bddebd-389d-41d9-ba71-2489040c1925
@@ -174,6 +179,7 @@ If we chain these units together we can achieve a desired degree of separation.
 # ╔═╡ 928ef8ae-264a-4448-ac08-3970a8d8d1db
 md"""
 ### Results and Discussion
+The results of this project are a pure 95.01% with a mass flow rate of 1.004 g/hr of 1,3 propanediol (3G). By optimizing the amount of sucrose to oxygen ratio, byproducts such as alpha-d-glucose were then used in place of sucrose to create more 3G. Rather than the alternative approach of buying more sucrose, we let sucrose break down into glucose. The glucose was then recycled to our best advantage resulting in lowered costs of how much sucrose that was necessary to buy and removed the need for glycerol. By removing glycerol, the team saved money on buying excess syringes and more chemical compounds than necessary.
 """
 
 # ╔═╡ ce17d0fa-b262-4d94-b7c1-4fa16d3e16a6
@@ -469,7 +475,7 @@ end
 # ╔═╡ fe7af914-b934-480d-af63-01265ddb19d8
 md"""
 ### Conclusions
-In conclusion, the Fugathicans have saved the day once again by providing our clients with a mass flow rate of approximately 1.004 g/hr at a purity of approximately 95.01%. Our process features the wonderful removal of glycerol as a suppliant and uses just enough sucrose that creates byproducts to carry out the reaction to completion. Not only is our process efficient, it ends up being as profitable as solely buying 1,3-propanediol itself. While 1,3-propanediol can be bought by itself, sucrose is easier to purchase and store, allowing for easy access to create 1,3-propanediol when needed. Furthermore, our project allows our client to produce the desired product at any time rather than wait for the product to ship in a large quantity. When supplies are bought in bulk, the project builds on its profit over time, breaking even in less than a year. The Fugathicans are the superheroes you never knew you needed.
+In conclusion, the Fugathicans have saved the day once again by providing our clients with a mass flow rate of approximately 1.004 g/hr at a purity of approximately 95.01%. Our process features the wonderful removal of glycerol as a suppliant and uses just enough sucrose that creates byproducts to carry out the reaction to completion. Not only is our process efficient, it ends up being as profitable as solely buying 1,3-propanediol itself. While 1,3-propanediol can be bought by itself, sucrose is easier to purchase and store, allowing for easy access to create 1,3-propanediol when needed. Furthermore, our project allows our client to produce the desired product at any time rather than wait for the product to ship in a large quantity. When supplies are bought in bulk, the project builds on its profit over time, breaking even a little over a year after the process is completed. The Fugathicans are the superheroes you never knew you needed.
 """
 
 # ╔═╡ 1fad21b1-365b-4cbb-9a38-c42bf5f46951
