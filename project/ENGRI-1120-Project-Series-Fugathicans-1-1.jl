@@ -45,7 +45,7 @@ Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithac
 # ╔═╡ 46c352c3-60f1-4718-8878-d0031d5bd0ca
 md"""
 ### Introduction
-Since winter is approaching, many families will need antifreeze to safely drive in the snow. We, the Fugathicans, were set on a mission to create 1,3-propanediol (3G), which makes antifreeze and polymers used in different industrial materials. We will create 3G from only two simple components: sucrose and oxygen. On Sigma Aldrich, sucrose used to make the compound costs $11.71 per mole, and the oxygen is 99.6% pure and costs $145.71 per mole. By using relatively cheap sucrose compared to other resources like glucose, we will make more profit while still creating the extremely useful product.
+Since winter is approaching, many families will need antifreeze to safely drive in the snow. We, the Fugathicans, were set on a mission to create 1,3-propanediol (3G), which makes antifreeze and polymers used in different industrial materials. We will create 3G from only two simple components: sucrose and oxygen. On Sigma Aldrich, sucrose used to make the compound costs $11.71 per mole, and the oxygen is 99.6% pure and costs $20.56 per mole. By using relatively cheap sucrose compared to other resources like glucose, we will make more profit while still creating the extremely useful product.
 """
 
 # ╔═╡ 4bcb9ef8-ea0a-480f-82f0-d15f5a7a7e43
