@@ -55,7 +55,10 @@ For the technical design, we used a series method. In this method, the reactors 
 
 ##### Financial Methods:
 *To calculate the financial solvency of this project, compared to a risk free investment in bonds returning 10% and 1%, we performed net present value calculations. 
-*We determined the setup costs necessary and determined
+
+*We determined the setup costs necessary ($2380) and determined the initial cash investment needed, and then calculated expected cash flow out from the project by assuming that the reactor could run for 16 hours a day, 360 days a year (with 5 days for maintenance, etc) and produce 1.00367g of 95% 1,3 propanediol an hour. The expected revenue from this 1,3,propanediol was compared to 98% (closest purity) 1,3 propanediol on Sigma Aldrich and was determined to be $0.55/g. The costs of sucrose and oxygen needed per 1.00367g (per hour reactos is run), were similarly found on Sigma Aldrich. This gave us an expected profit of $0.302 per hour and $0.301 per gram, which came out to a total of $1739.44 per year. 
+
+*This was then compared to investments of $2380 in 10% return and 1% return bonds in a net present value analysis over a 6 year time span assuming that the first year was used up by building the reactor. In essence, the cash flow out of the reactor in a particular year post-build was normalized by the value of that money would have if it were a product of the investment. I.e. if the project were to have made $23.8 in the second year with the same setup costs, that would have just as attainable if one had invested in 1% bonds, and so the net present value of the project in a year in comparison to just an $2380 investment would be zero. Over a 6 year time period, the NPV of the project would come out to be $6062.25 compared to the 1% bonds and to $4213.84 compared to the 10% bonds. 
 """
 
 # ╔═╡ 47bddebd-389d-41d9-ba71-2489040c1925
